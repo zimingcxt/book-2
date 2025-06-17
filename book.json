@@ -1,0 +1,19 @@
+{
+    "title": "我的笔记",
+    "author": "zimingcxt",
+    "description": "这是我平时记录的笔记，涵盖各个科目。",
+    "gitbook": "3.7.3",
+    "plugins": [
+        "-sharing"
+    ],
+    "pluginsConfig": {
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        }
+    },
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
